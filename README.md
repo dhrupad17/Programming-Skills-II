@@ -12,7 +12,8 @@
 | :-----| :------------------ | :---------------------------- | :----------- |  :------------------------------------------------------------ |
 | DAY1 | 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY1P1.md) |
 |  | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY1P2.md) |
-
+| DAY2 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY2P1.md) |
+|  | 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY2P2.md) |
 
 
 
