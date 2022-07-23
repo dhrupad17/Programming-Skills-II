@@ -10,6 +10,8 @@
 
 | DAYS  | LEETCODE PROBLEM NO |  NAME                         |  DIFFICULTY  |   SOLUTIONS                                                    |
 | :-----| :------------------ | :---------------------------- | :----------- |  :------------------------------------------------------------ |
+| DAY1 | 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY1P1.md) |
+|  | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY1P2.md) |
 
 
 
