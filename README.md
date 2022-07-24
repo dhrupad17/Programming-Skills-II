@@ -16,8 +16,8 @@
 |  | 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY2P2.md) |
 | DAY3 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY3P1.md) |
 |  | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY3P2.md) |
-
-
+| DAY4 | 1367 | [Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY4P1.md) |
+|  | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY4P2.md) |
 
 
 
