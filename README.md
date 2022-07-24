@@ -14,6 +14,8 @@
 |  | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY1P2.md) |
 | DAY2 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY2P1.md) |
 |  | 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY2P2.md) |
+| DAY3 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY3P1.md) |
+|  | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY3P2.md) |
 
 
 
