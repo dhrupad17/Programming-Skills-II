@@ -20,7 +20,8 @@
 |  | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY4P2.md) |
 |  DAY4 | 1367 | [Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY4P1.md) |
 |  | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY4P2.md) |
-
+| DAY5 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY5P1.md) |
+|  | 989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY5P2.md) |
 
 
 
