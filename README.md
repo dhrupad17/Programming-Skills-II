@@ -24,8 +24,8 @@
 |  | 989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY5P2.md) |
 | DAY6 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY6P1.md) |
 |  | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY6P2.md) |
-
-
+| DAY7 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY7P1.md) |
+|  | 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY7P2.md) |
 
 
 ## 🛠 Skills
