@@ -26,6 +26,8 @@
 |  | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY6P2.md) |
 | DAY7 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY7P1.md) |
 |  | 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY7P2.md) |
+| DAY8 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY8P1.md) |
+|  | 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY8P2.md) |
 
 
 ## 🛠 Skills
