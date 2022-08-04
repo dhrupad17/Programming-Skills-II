@@ -30,6 +30,8 @@
 |  | 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY8P2.md) |
 | DAY9 | 1630 | [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY9P1.md) |
 |  | 429 | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY9P2.md) |
+| DAY10 | 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY10P1.md) |
+|  | 556 | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY10P2.md) |
 
 
 ## 🛠 Skills
