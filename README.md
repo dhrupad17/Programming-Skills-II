@@ -38,6 +38,8 @@
 |  | 713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY12P2.md) |
 | DAY13 | 304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY13P1.md) |
 |  | 910 | [Smallest Range II](https://leetcode.com/problems/smallest-range-ii/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY13P2.md) |
+| DAY14 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY14P1.md) |
+|  | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY14P2.md) |
 
 ## 🛠 Skills
 `Basic Data Type`,`Operator`,`Conditional Statements`,`Loop`,`Function`,`Array`,`String`,`Linked List & Tree`,`Containers & Libraries`,`Class & Object`
