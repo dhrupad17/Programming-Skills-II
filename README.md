@@ -42,6 +42,8 @@
 |  | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY14P2.md) |
 | DAY15 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY15P1.md) |
 |  | 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY15P2.md) |
+| DAY16 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY16P1.md) |
+|  | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY16P2.md) |
 ## 🛠 Skills
 `Basic Data Type`,`Operator`,`Conditional Statements`,`Loop`,`Function`,`Array`,`String`,`Linked List & Tree`,`Containers & Libraries`,`Class & Object`
 
