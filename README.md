@@ -46,6 +46,8 @@
 |  | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY16P2.md) |
 | DAY17 | 1845 | [Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY17P1.md) |
 |  | 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY17P2.md) |
+| DAY18 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY18P1.md) |
+|  | 341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY18P2.md) |
 
 ## 🛠 Skills
 `Basic Data Type`,`Operator`,`Conditional Statements`,`Loop`,`Function`,`Array`,`String`,`Linked List & Tree`,`Containers & Libraries`,`Class & Object`
