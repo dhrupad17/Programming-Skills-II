@@ -48,6 +48,11 @@
 |  | 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | `Easy` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY17P2.md) |
 | DAY18 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY18P1.md) |
 |  | 341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY18P2.md) |
+| DAY19 | 1797 | [Design Authentication Manager](https://leetcode.com/problems/design-authentication-manager/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY19P1.md) |
+|  | 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY19P2.md) |
+| DAY20 | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY20P1.md) |
+|  | 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY20P2.md) |
+|  | 729 | [My Calendar I](https://leetcode.com/problems/my-calendar-i/) | `Medium` | [👉Click Here](https://github.com/dhrupad17/Programming-Skills-II/blob/main/DAY20P3.md) |
 
 ## 🛠 Skills
 `Basic Data Type`,`Operator`,`Conditional Statements`,`Loop`,`Function`,`Array`,`String`,`Linked List & Tree`,`Containers & Libraries`,`Class & Object`
